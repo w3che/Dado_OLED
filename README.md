@@ -34,4 +34,4 @@ Los materiales utilizados en el proyecto son:
 
 **Proyecto funcionando:**
 
-<a href="https://www.wokwi.com/projects/374271485827503105" target="_blank">Dado OLED</a>
+[Dado OLED](https://wokwi.com/projects/374271485827503105 "Dado OLED")
