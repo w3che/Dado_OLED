@@ -1,13 +1,18 @@
-# Licenciatura en Ingeniería en Sistemas Computacionales 
-### Juan Carlos Chuc Uh
-### Simulación
-### Mtro. Eduardo Daniel Monzón
-### Quinto cuatrimestre
-### Segundo Parcial
+-------------
+<p align="center">
+<img src="/UNISUR.png" width="100" height="100" border="10"/>
+</p>
+
+<h2 align="center">Licenciatura en Ingeniería en Sistemas Computacionales</h2>
+<h3 align="center">Juan Carlos Chuc Uh</h3>
+<h3 align="center">Simulación</h3>
+<h3 align="center">Mtro. Eduardo Daniel Monzón</h3>
+<h3 align="center">Quinto cuatrimestre</h3>
+<h3 align="center">Segundo Parcial</h3>
 
 -------------
 
-### Actividad 1
+### Actividad 5
 
 **Instrucción de la actividad:**
 - Programa que simula el lanzamiento de un dado n número de veces.
@@ -25,3 +30,5 @@ Los materiales utilizados en el proyecto son:
 - 3 Micro switch
 - 11 Cables dupont
 - 1 Protoboard
+
+![](/Dado_OLED.png)
