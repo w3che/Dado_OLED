@@ -1,9 +1,11 @@
-# Licenciatura en Ingeniería en Sistemas Computacionales 
-### Juan Carlos Chuc Uh
-### Simulación
-### Mtro. Eduardo Daniel Monzón
-### Quinto cuatrimestre
-### Segundo Parcial
+-------------
+
+<h2 align="center">Licenciatura en Ingeniería en Sistemas Computacionales</h2>
+<h3 align="center">Juan Carlos Chuc Uh</h3>
+<h3 align="center">Simulación</h3>
+<h3 align="center">Mtro. Eduardo Daniel Monzón</h3>
+<h3 align="center">Quinto cuatrimestre</h3>
+<h3 align="center">Segundo Parcial</h3>
 
 -------------
 
