@@ -31,3 +31,7 @@ Los materiales utilizados en el proyecto son:
 - 1 Protoboard
 
 ![](/Dado_OLED.png)
+
+**Proyecto funcionando:**
+
+https://wokwi.com/projects/374271485827503105
