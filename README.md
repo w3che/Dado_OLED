@@ -1,6 +1,6 @@
 -------------
 <p align="center">
-<img src="/UNISUR.png" width="100" height="100" border="10"/>
+<img src="/UNISUR.png" width="200" height="143" border="10"/>
 </p>
 
 <h2 align="center">Licenciatura en Ingeniería en Sistemas Computacionales</h2>
