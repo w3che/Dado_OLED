@@ -25,3 +25,5 @@ Los materiales utilizados en el proyecto son:
 - 3 Micro switch
 - 11 Cables dupont
 - 1 Protoboard
+
+![](/Dado_OLED.png)
