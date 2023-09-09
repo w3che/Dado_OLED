@@ -7,7 +7,7 @@
 
 -------------
 
-### Actividad 1
+### Actividad 5
 
 **Instrucción de la actividad:**
 - Programa que simula el lanzamiento de un dado n número de veces.
