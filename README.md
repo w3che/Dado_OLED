@@ -1,4 +1,7 @@
 -------------
+<p align="center">
+<img src="/UNISUR.png" width="100" height="100" border="10"/>
+</p>
 
 <h2 align="center">Licenciatura en Ingeniería en Sistemas Computacionales</h2>
 <h3 align="center">Juan Carlos Chuc Uh</h3>
