@@ -34,4 +34,4 @@ Los materiales utilizados en el proyecto son:
 
 **Proyecto funcionando:**
 
-https://wokwi.com/projects/374271485827503105
+<p>Dale un vistazo <a href="[https://www.wokwi.com/projects/374271485827503105" target="_blank">Wokwi</a>.</p>
