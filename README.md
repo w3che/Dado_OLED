@@ -21,11 +21,10 @@
 
 -------------
 
-El proyecto lo realice utilizando Arduino IDE y simula el lanzamiento de un dado, el programa puede elegir cuantos dados serán lanzados (máximo 10) y al final muestra el resultado de los tiros.
+El proyecto lo realice utilizando Arduino IDE y simula el lanzamiento de un dado, el programa permite elegir cuantos dados serán lanzados (máximo 10) y al final muestra el resultado de los tiros.
 Los materiales utilizados en el proyecto son:
 
 - 1 placa Arduino UNO
-- 2 Push Button
 - 1 Pantalla OLED SSD1306
 - 3 Micro switch
 - 11 Cables dupont
