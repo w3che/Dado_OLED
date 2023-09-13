@@ -1,8 +1,8 @@
 -------------
 <p align="center">
-<img src="/UNISUR.png" width="100" height="100" border="10"/>
+<img src="/UNISUR.png" width="150" height="107" border="10"/>
 </p>
-
+<br>
 <h2 align="center">Licenciatura en Ingeniería en Sistemas Computacionales</h2>
 <h3 align="center">Juan Carlos Chuc Uh</h3>
 <h3 align="center">Simulación</h3>
@@ -21,14 +21,17 @@
 
 -------------
 
-El proyecto lo realice utilizando Arduino IDE y simula el lanzamiento de un dado, el programa puede elegir cuantos dados serán lanzados (máximo 10) y al final muestra el resultado de los tiros.
+El proyecto lo realice utilizando Arduino IDE y simula el lanzamiento de un dado, el programa permite elegir cuantos dados serán lanzados (máximo 10) y al final muestra el resultado de los tiros.
 Los materiales utilizados en el proyecto son:
 
 - 1 placa Arduino UNO
-- 2 Push Button
 - 1 Pantalla OLED SSD1306
 - 3 Micro switch
 - 11 Cables dupont
 - 1 Protoboard
 
 ![](/Dado_OLED.png)
+
+**Proyecto funcionando:**
+
+[Dado OLED](https://wokwi.com/projects/374271485827503105 "Dado OLED")
